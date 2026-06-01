@@ -7,7 +7,7 @@ const UPSTREAM_TIMEOUT = 5000;
 // Refresh interval for ALL lists (blocklist, allowlists, private TLDs, redirect rules)
 const ALL_LISTS_REFRESH_INTERVAL = 3600000; // 1 hour
 
-const AD_BLOCK_ENABLED = true;
+const AD_BLOCK_ENABLED = false;
 const BLOCKLIST_URL = '/rules/blocklists.txt';
 const ALLOWLIST_URL = '/rules/allowlists.txt';
 
