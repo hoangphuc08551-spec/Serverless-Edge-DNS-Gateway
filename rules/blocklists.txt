@@ -3509,7 +3509,6 @@ a.beprogressive.ro
 a.bestcontentaccess.top
 a.bestcontentfood.top
 a.bestcontentsystem.top
-a.bestcontenttool.top
 a.betterincome.cc
 a.bfking.cn
 a.bhpcfragrance.in
@@ -8793,7 +8792,6 @@ adhslx.com
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
-adhub.ru
 adhudg.nec-lavie.jp
 adhunt.net
 adhunter.media
@@ -10258,7 +10256,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15360,9 +15357,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -18324,7 +18319,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -22450,6 +22444,7 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -23365,6 +23360,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27925,6 +27921,8 @@ bestfungamestoday.com
 bestfunnyads.com
 bestgirlsjourneys.com
 bestgugo.xyz
+bestgugo1.xyz
+bestgugo2.xyz
 besthabit.pro
 besthealthblog.pro
 besthitsnow.com
@@ -28052,6 +28050,7 @@ bettingads.365scores.com
 bettingbarfy.shop
 bettingcurly.com
 bettinginvulnerablebarbed.com
+bettingoffer.xyz
 bettingpartners.com
 bettingstugan.se
 bettraff.com
@@ -28946,6 +28945,7 @@ bitclubnetwork.com
 bitcoadz.io
 bitcodrom.xyz
 bitcoincashcode.org
+bitcoines.com
 bitcoinqrcodemaker.com
 bitcoinsports.org
 bitdefender.f9tmep.net
@@ -29409,6 +29409,8 @@ blockchaintop.nl
 blockdial.com
 blockerpozzyskyward.cyou
 blockietv.xyz
+blockietv1.xyz
+blockietv2.xyz
 blocklisted.net
 blockmetrics.com
 blocksfeathers.com
@@ -35590,6 +35592,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -44998,7 +45001,6 @@ d.footballgadgets.shop
 d.formulafina.com
 d.forwardmarketing.nl
 d.foxadd.com
-d.freetable.com
 d.frohnatur.tirol
 d.futureofbiohacking.com
 d.gaertenundmehr.ch
@@ -46661,6 +46663,7 @@ d3sh7inoi83mn7.cloudfront.net
 d3skqyr7uryv9z.cloudfront.net
 d3sof4x9nlmbgy.cloudfront.net
 d3srxd2wvksmqd.cloudfront.net
+d3sv.net
 d3svxlu1oafo86.cloudfront.net
 d3t16rotvvsanj.cloudfront.net
 d3t3bxixsojwre.cloudfront.net
@@ -49790,7 +49793,6 @@ data.candidtails.com
 data.canon.club-news.com.hk
 data.capella.edu
 data.capgemini.adobesandbox.com
-data.capriatacursos.com.br
 data.cardiorisk.com
 data.cargointernational.de
 data.carnival-uk-dev.test.ajo.adobe.com
@@ -54877,7 +54879,6 @@ diocgn.biltorvet.dk
 diocoelstentonsurer.qpon
 dioqto.totaljobs.com
 diorsbag.com
-dios.me
 diosmindaftest.shop
 diosminfurzier.shop
 diouidlf98.com
@@ -64345,7 +64346,6 @@ exclamatory77.top
 exclkplat.com
 exclusiveclicks.com
 exclusivegiftcards.com
-exclusivelearnt.com
 exclusivelyconsume.com
 exclusivepussy.com
 exclusivesearch.online
@@ -75740,6 +75740,7 @@ gtm.aviationtag.com
 gtm.aviliahome.it
 gtm.avioza.al
 gtm.avserramenti.it
+gtm.avu.ca
 gtm.awrestaurants.com
 gtm.awsales.io
 gtm.axeandawlleatherworks.com
@@ -77403,6 +77404,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -94387,6 +94389,7 @@ ka.rotageek.com
 ka1.sexvnhd.vip
 kaacsi.belvilla.nl
 kaadqpoorrhsy.site
+kaarlojosefmail.com
 kaascypher.com
 kabbmedia.com
 kabbo.kabbocollectionbd.com
@@ -98741,6 +98744,8 @@ light-tennis.pro
 lightad.com
 lightboxcdn.com
 lightbrights.xyz
+lightbrights1.xyz
+lightbrights2.xyz
 lightcast.com
 lightenafterthought.com
 lightenslush.com
@@ -133006,6 +133011,8 @@ partridgevowel.com
 parts.akibablog.net
 partsoptimisticrebound.com
 partsroll.xyz
+partsroll1.xyz
+partsroll2.xyz
 partwithner.com
 party-vqgdyvoycc.now.sh
 party.beyond-memories.com
@@ -136835,6 +136842,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -142159,7 +142167,6 @@ r1---sn-9gv7ense.c.2mdn.net
 r1---sn-a5m7lnld.c.2mdn.net
 r1---sn-a5m7lnlr.c.2mdn.net
 r1---sn-a5m7lnly.c.2mdn.net
-r1---sn-a5mekn6d.c.2mdn.net
 r1---sn-a5mekn6k.c.2mdn.net
 r1---sn-a5mekn6l.c.2mdn.net
 r1---sn-a5mekn6r.c.2mdn.net
@@ -143480,7 +143487,6 @@ r4---sn-9gv7ense.c.2mdn.net
 r4---sn-a5m7lnld.c.2mdn.net
 r4---sn-a5m7lnlr.c.2mdn.net
 r4---sn-a5m7lnly.c.2mdn.net
-r4---sn-a5mekn6d.c.2mdn.net
 r4---sn-a5mekn6l.c.2mdn.net
 r4---sn-a5mekn6r.c.2mdn.net
 r4---sn-a5mekn6s.c.2mdn.net
@@ -144354,6 +144360,7 @@ racgpoclwvdub.space
 rachel7040.ntup.network
 rachesbejeled.cfd
 racialboats.com
+racialregister.com
 racingfamilyvillage.com
 racingorchestra.com
 racismdebitum.shop
@@ -145155,7 +145162,6 @@ realcounter.eu
 realdatting.com
 realeducation.kangan.edu.au
 realer.info
-realestate.afdalproperties.ae
 realestate.buyselllet.ae
 realestate.collinscu.org
 realestate.futurelegacy.ae
@@ -145964,6 +145970,7 @@ reklam.turkmmo.com
 reklam.yonlendir.com
 reklam7.com
 reklam8.net
+reklama-net.ru
 reklama.botevgrad.com
 reklama.eforum.lt
 reklama.mail.ru
@@ -147879,7 +147886,6 @@ road.hpwinvip.net
 road.leadr.co
 road.lemonlawfirm.com
 roadcontagion.com
-roadmapappendfiles.com
 roadmapeducation.online
 roadrunner.ausmv.com.au
 roadrunner.tt.omtrdc.net
@@ -150414,6 +150420,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpcq1.net
 s.dpmsrv.com
 s.draqarys.com
@@ -152574,7 +152581,6 @@ sangleybrazils.cyou
 sangleygunsman.com
 sangmoonlightstake.com
 sangopportunity.com
-sangramautocomp.com
 sangria.outbrain.com
 sanguinecocky.com
 sanguineslang.com
@@ -160294,7 +160300,6 @@ sgmt.lonas.lt
 sgmt.phedra.ai
 sgmt.vibefitness.it
 sgmtcdn.san-marco.com
-sgood.ru
 sgp-ads-heytapmobi-pubgw-819691514.ap-southeast-1.elb.amazonaws.com
 sgp-ads-heytapmobile-pubgw-344151928.ap-southeast-1.elb.amazonaws.com
 sgp-mobile-sec-heytapmobi-pubgw-1205822126.ap-southeast-1.elb.amazonaws.com
@@ -173832,7 +173837,6 @@ ss.bramidan.com
 ss.bramidan.fr
 ss.bramidan.ie
 ss.bramidan.nl
-ss.brandsupplies.store
 ss.bravedaughters.com
 ss.breezacool.com
 ss.brewshop.co.nz
@@ -181023,7 +181027,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -190161,7 +190164,6 @@ suhvoulwtaxfj.site
 suibianmaimaicom.com
 suicidalruse.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -193319,7 +193321,6 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
-tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -196213,6 +196214,7 @@ thearcofohio.org
 thearwh.org
 thebeachpokhara.com
 thebestbetmakers.xyz
+thebestbetmakers1.xyz
 thebestdates.net
 thebestgame2020.com
 thebestlinks.com
@@ -218688,6 +218690,7 @@ www.jshonghuadq.com
 www.juicer.cc
 www.juicyads.com
 www.justpremium.com
+www.jutou5.com
 www.juzi.cn
 www.jystea.com
 www.k3bos.com
@@ -224683,6 +224686,7 @@ z5.cnzz.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
+z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
